@@ -1,0 +1,7 @@
+Welcome Page
+|
+|-- Student Signup --> Capture Face --> Store in DB --> Success
+|
+|-- Student Login --> Authenticate --> Student Dashboard --> Select Lecture --> Face Scan --> Match? --> Mark Attendance --> Confirmation
+|
+|-- Admin Login --> Authenticate --> Admin Dashboard --> Schedule Lecture / View Reports / Export CSV
